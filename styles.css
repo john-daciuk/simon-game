@@ -1,0 +1,62 @@
+body {
+  text-align: center;
+  background-color: #fff3cd;
+}
+
+#level-title {
+  font-family: 'Raleway', sans-serif;
+  font-size: 4rem;
+  margin:  5%;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 4px solid black;
+  border-radius: 20%;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.green-text {
+  color: springgreen;
+}
+.blue-text {
+  color:blue;
+}
+
+.black-text {
+  color:black;
+}
+
+.green {
+  background-color: #baf1a1;
+}
+
+.red {
+  background-color: #f40552;
+}
+
+.blue {
+  background-color: #05dfd7;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
